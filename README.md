@@ -24,7 +24,7 @@ The project includes an interactive dashboard for visualization and decision-mak
 3. Use the slicers to filter by school type, grade level, or funding.  
 
 ## 📈 Dashboard Preview
-![Dashboard Screenshot] (education_inequality_data) 
+![Dashboard Screenshot] (education_inequality_data.png) 
 
 ✨ This project demonstrates my ability to clean, analyze, and visualize data using Excel for actionable insights.  # Education_Data_Analysis
 A comprehensive education dataset analysis using Excel. The project covers data cleaning, exploration, and visualization, focusing on key performance indicators such as average test scores, funding, student–teacher ratios, and dropout rates.
